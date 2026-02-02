@@ -147,5 +147,5 @@ st.subheader('Dados Detalhados')
 st.dataframe(df_filtrado)
 
 st.markdown("---")
-st.caption("'Com amor à minha esposa, Lorena Bial Zanini'")
+st.caption('"Com amor à minha esposa Lorena Bial Zanini"')
 
