@@ -145,4 +145,7 @@ with col_graf4:
 
 st.subheader('Dados Detalhados')
 st.dataframe(df_filtrado)
-st.warning('Com amor a minha querida esposa, Lorena Bial Zanini')
+
+st.markdown("---")
+st.caption("'Com amor à minha esposa, Lorena Bial Zanini'")
+
