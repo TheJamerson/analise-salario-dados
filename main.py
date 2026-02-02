@@ -145,3 +145,4 @@ with col_graf4:
 
 st.subheader('Dados Detalhados')
 st.dataframe(df_filtrado)
+st.warning('Com amor a minha querida esposa, Lorena Bial Zanini')
